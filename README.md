@@ -3,7 +3,7 @@
 - **Student Name:** Jamal Abdelnasr Mohamed
 - **Student ID:** 202505010097
 - **Class Code:** BIT1123
-- **Program:** [YOUR PROGRAM]
+- **Program:** [BIT]
 - **University:** City University Malaysia, Cyberjaya Campus
 
 ## Course Description
@@ -47,4 +47,4 @@ java Main
 - Week 10: `java QuizBattleGUI` (needs a computer with a desktop display)
 
 ## Reflection Summary
-[WRITE 3-5 SENTENCES ABOUT WHAT YOU LEARNED]
+These tutorials cover Java basics and object-oriented programming: classes, encapsulation, inheritance, polymorphism and abstraction. They also cover saving data to a file and making a simple window with buttons. I plan to keep practising to improve my Java skills.
